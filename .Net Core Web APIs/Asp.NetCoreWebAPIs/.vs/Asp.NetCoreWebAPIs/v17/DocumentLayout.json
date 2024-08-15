@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.NET CORE\\Asp.Net Core Web APIs\\.Net Core Web APIs\\Asp.NetCoreWebAPIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCD3AE2-4AB1-4576-AAE5-CECC74E424C1}|Asp.NetCoreWebAPIs\\Asp.NetCoreWebAPIs.csproj|e:\\asp.net core\\asp.net core web apis\\.net core web apis\\asp.netcorewebapis\\asp.netcorewebapis\\controllers\\vegatablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCD3AE2-4AB1-4576-AAE5-CECC74E424C1}|Asp.NetCoreWebAPIs\\Asp.NetCoreWebAPIs.csproj|solutionrelative:asp.netcorewebapis\\controllers\\vegatablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VegatablesController.cs",
+              "DocumentMoniker": "E:\\ASP.NET CORE\\Asp.Net Core Web APIs\\.Net Core Web APIs\\Asp.NetCoreWebAPIs\\Asp.NetCoreWebAPIs\\Controllers\\VegatablesController.cs",
+              "RelativeDocumentMoniker": "Asp.NetCoreWebAPIs\\Controllers\\VegatablesController.cs",
+              "ToolTip": "E:\\ASP.NET CORE\\Asp.Net Core Web APIs\\.Net Core Web APIs\\Asp.NetCoreWebAPIs\\Asp.NetCoreWebAPIs\\Controllers\\VegatablesController.cs",
+              "RelativeToolTip": "Asp.NetCoreWebAPIs\\Controllers\\VegatablesController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:33:55.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
